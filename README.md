@@ -3,4 +3,5 @@ subbranch edit,this is a frist development.
 hello world!
 
 localhost  edit test_eidt is now !
-three update  file£¡
+three update  fileÂ£ï¼
+four update  recordï¼
