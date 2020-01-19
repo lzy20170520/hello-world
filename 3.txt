@@ -1,4 +1,0 @@
-
-vim first edit file1
-qw
-begin use vim edit txt!!!
